@@ -1,2 +1,2 @@
 # Website
-I made this using website using Node JS.
+I made this simple blog website template using Node JS.
